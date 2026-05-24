@@ -32,9 +32,8 @@ I built framerate-toggle-pro after getting tired of CS2's framerate behaving inc
 
 **Screenshots**
 
-| Main Interface | Setup Wizard |
-|----------------|--------------|
-| ![main](https://raw.githubusercontent.com/rosaleebhaw/framerate-toggle-pro/main/assets/screenshot_main.png) | ![installer](https://raw.githubusercontent.com/rosaleebhaw/framerate-toggle-pro/main/assets/screenshot_installer.png) |
+![main](https://raw.githubusercontent.com/rosaleebhaw/framerate-toggle-pro/main/assets/screenshot_main.png)
+
 ![app running](https://raw.githubusercontent.com/rosaleebhaw/framerate-toggle-pro/main/assets/screenshot_app.png)
 
 **FAQ**
